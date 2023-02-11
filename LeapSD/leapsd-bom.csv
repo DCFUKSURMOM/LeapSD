@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"10K,300K";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;" ";;;
+2;"UART";"PinHeader_1x04_P2.54mm_Horizontal";1;"PinHeader_1x04_P2.54mm_Horizontal";;;
+3;"10K,10K";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";2;"10K";;;
+4;"Micro SD";"microSD_HC_Molex_104031-0811";1;"microSD_HC_Molex_104031-0811";;;
+5;"3K";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"3K";;;
